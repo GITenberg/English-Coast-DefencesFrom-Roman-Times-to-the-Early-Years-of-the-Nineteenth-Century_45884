@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '43514'
     url: http://www.gutenberg.org/2009/agents/43514
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45884#English-Coast-DefencesFrom-Roman-Times-to-the-Early-Years-of-the-Nineteenth-Century
 gutenberg_issued: '2014-06-05'
 gutenberg_type: Text
 identifiers:
