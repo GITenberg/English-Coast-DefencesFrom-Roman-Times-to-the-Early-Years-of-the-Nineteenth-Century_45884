@@ -1,0 +1,31 @@
+_repo: English-Coast-DefencesFrom-Roman-Times-to-the-Early-Years-of-the-Nineteenth-Century_45884
+_version: 0.1.0
+alternative_title: "English Coast Defences\r\nFrom Roman Times to the Early Years\
+  \ of the 19th Century"
+covers:
+- cover_type: archival
+  image_path: 45884-h/images/cover.png
+creator:
+  author:
+    agent_name: Clinch, George
+    birthdate: 1860
+    deathdate: 1921
+    gutenberg_agent_id: '43514'
+    url: http://www.gutenberg.org/2009/agents/43514
+description: ''
+gutenberg_issued: '2014-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45884'
+  lccn: '2010671483'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Defenses'
+- !lcc 'UG'
+title: 'English Coast Defences
+
+  From Roman Times to the Early Years of the Nineteenth Century'
+url: http://www.gutenberg.org/ebooks/45884
